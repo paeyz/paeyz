@@ -1,21 +1,18 @@
-## Hi there, I'm Paeyz 👋
+## Hi there, I'm paeyz 👋
 
-I'm currently diving deep into **Pwnable** and building my skills in offensive security.  
-
+`⚡ Always learning, always hacking 🚀`
+---
 
 ### 🔎 About Me
-- 🎯 My main interests are **Offsive Security Researcher - Pentestration**   
-- 🏅 I completed the **Hunting Master 2nd** training program by *FindTheGap*  
-- 🎓 I'm an undergraduate student at **Gachon University (Smart Security, Class of 2024)**  
+- 🎯 **Offsive Security Researcher - Pentestration**   
+- 🏅 **Hunting Master 2nd**   
+- 🎓 **Gachon University (Smart Security, Class of 2024)**  
 
 
 ### 🌐 Blog
-Check out my blog: [baeizu](https://baeizu.tistory.com/) — I write about Pwnable, Rev/Mobile, fuzzing, exploit tips, etc.
+[baeizu](https://baeizu.tistory.com/) 
 
 
 ### 📫 How to reach me
 - Email: **iwasbaeyz@gmail.com**
 
----
-
-`⚡ Always learning, always hacking 🚀`
