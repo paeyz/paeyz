@@ -13,15 +13,9 @@ I'm currently diving deep into **Pwnable** and building my skills in offensive s
 Check out my blog: [baeizu](https://baeizu.tistory.com/) — I write about Pwnable, Rev/Mobile, fuzzing, exploit tips, etc.
 
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,github,vscode" />
-</p>
-
-
 ### 📫 How to reach me
 - Email: **iwasbaeyz@gmail.com**
 
 ---
 
-⚡ Always learning, always hacking 🚀
+`⚡ Always learning, always hacking 🚀`
