@@ -1,6 +1,7 @@
-## Hi there, I'm paeyz 👋
 
 `⚡ Always learning, always hacking 🚀`
+---
+---
 ---
 
 ### 🔎 About Me
